@@ -1,4 +1,7 @@
 ## Hi there 👋
+---
+- I’m currently working on [JET-CMS](https://jet-cms.com/en) and [momoscreen](https://momoscreen.com/en)
+- Company [JetCoders GmbH](https://jetcoders.at/en)
 
 <!--
 **anki247/anki247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
